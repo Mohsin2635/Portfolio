@@ -54,7 +54,7 @@ export default function HomePage() {
 
           {/* Intro Paragraph */}
           <p className="text-base sm:text-lg text-muted-foreground leading-relaxed max-w-2xl">
-            {siteConfig.subheadline} Focused on clean TypeScript design systems, autonomous LLM agent execution, and zero-bloat web architecture.
+            {siteConfig.subheadline} I focus on clean TypeScript design systems, autonomous LLM agent execution, and zero-bloat web architecture.
           </p>
 
           {/* CTAs */}

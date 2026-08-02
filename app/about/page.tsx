@@ -4,7 +4,7 @@ import { AboutClient } from "./about-client";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "Learn more about Muhammad Mohsin, personal engineering manifesto, core skills, and milestone trajectory.",
+  description: "Background, engineering principles, technical skills, and milestones for Muhammad Mohsin.",
 };
 
 export default function AboutPage() {

@@ -20,7 +20,7 @@ export function FloatingChat() {
     {
       id: "welcome",
       sender: "bot",
-      text: "Hello! I am Mohsin's interactive portfolio assistant. Ask me about agentic workflows, Next.js projects, or technical skills.",
+      text: "Hello! I'm an interactive assistant for Mohsin's portfolio. Ask me about his agentic workflows, Next.js projects, or technical skills.",
       timestamp: "Just now",
     },
   ]);

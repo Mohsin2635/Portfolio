@@ -13,7 +13,7 @@ export function SiteFooter() {
           <div className="space-y-3 max-w-md">
             <Logo variant="compact" tone="dark" />
             <p className="text-xs text-muted-foreground leading-relaxed">
-              {siteConfig.headline} software engineering student building calm, resilient web applications and practical agentic workflows.
+              I'm a software engineering student building calm, resilient web applications and practical agentic workflows.
             </p>
           </div>
 

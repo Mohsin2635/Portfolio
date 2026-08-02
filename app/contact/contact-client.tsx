@@ -19,7 +19,7 @@ export function ContactClient() {
           Let's build something.
         </h1>
         <p className="text-base text-muted-foreground leading-relaxed max-w-xl mx-auto">
-          Open for collaborations, agentic AI development, full-stack web engineering, and technical discussions.
+          I'm open for collaborations, agentic AI development, full-stack web engineering, and technical discussions.
         </p>
       </div>
 

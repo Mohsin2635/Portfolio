@@ -4,7 +4,7 @@ import { ProjectsClient } from "./projects-client";
 
 export const metadata: Metadata = {
   title: "Projects & Case Studies",
-  description: "Explore personal projects, agentic AI documentation platforms, and CMS storefronts built by Muhammad Mohsin.",
+  description: "Selected software engineering projects, agentic AI tools, and web applications built by Muhammad Mohsin.",
 };
 
 export default function ProjectsPage() {

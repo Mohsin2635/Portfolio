@@ -22,7 +22,7 @@ export function ProjectsClient() {
           Projects & Experiments
         </h1>
         <p className="text-base text-muted-foreground leading-relaxed">
-          Detailed case studies showcasing agentic AI tools, documentation retrieval systems, performance-focused web apps, and modern frontend design.
+          Detailed case studies showcasing my work in agentic AI tools, documentation retrieval systems, performance-focused web apps, and modern frontend design.
         </p>
       </div>
 

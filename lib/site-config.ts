@@ -18,7 +18,7 @@ export const siteConfig: SiteConfig = {
   name: "Muhammad Mohsin",
   title: "Muhammad Mohsin — Interactive Portfolio",
   headline: "I build agentic software with intent.",
-  subheadline: "Software engineering student crafting resilient AI workflows, calm interfaces, and intent-driven web systems.",
+  subheadline: "I'm a software engineering student building resilient AI workflows, calm interfaces, and intent-driven web systems.",
   role: "Software Engineering Student",
   location: "Karachi, Pakistan",
   focus: "Agentic AI & Web Systems",

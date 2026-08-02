@@ -4,7 +4,7 @@ import { ContactClient } from "./contact-client";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Get in touch with Muhammad Mohsin for agentic AI collaborations, software engineering, and inquiries.",
+  description: "Get in touch with Muhammad Mohsin for agentic AI development, software engineering, or inquiries.",
 };
 
 export default function ContactPage() {
