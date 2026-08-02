@@ -20,15 +20,48 @@
 # production
 /build
 
-# misc
-.DS_Store
-*.pem
+# SpecKit Plus / AI agent tooling & planning artifacts (internal development — not for public repo)
+.specify/
+.gemini/
+specs/
+history/
+GEMINI.md
+AGENTS.md
+CLAUDE.md
+.cursor/
+.claude/
+.windsurf/
 
-# debug
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs & local databases
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+*.sqlite
+*.sqlite3
+*.db
+
+# Alternative package manager lockfile duplicates (npm package-lock.json is used)
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
 
 # env files (can opt-in for committing if needed)
 .env*
@@ -39,3 +72,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
