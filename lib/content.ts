@@ -68,12 +68,12 @@ export const projects: Project[] = [
     tags: ["Agentic AI", "Next.js", "Python", "RAG"],
     fullTechStack: ["Next.js App Router", "TypeScript", "Python (OpenAI Agent SDK)", "ChromaDB", "Tailwind CSS v4"],
     highlights: [
-      "Built sub-second vector retrieval over 500+ pages of technical robotics documentation.",
+      "Built sub-second vector retrieval over 50+ pages of technical robotics documentation.",
       "Integrated a custom dynamic mathematical formula renderer using LaTeX syntax.",
       "Embedded an interactive assistant capable of explaining code snippets line-by-line.",
     ],
     // [SITE OWNER PLACEHOLDER]: Update project 01 case-study link before live launch
-    link: "https://github.com/example-username/humanoid-robotics-book",
+    link: "https://humanoid-robotics-book-k6pr.vercel.app/",
   },
   {
     id: "bandage-ecommerce",
@@ -89,7 +89,7 @@ export const projects: Project[] = [
       "Integrated custom OKLCH design tokens using CSS variables.",
     ],
     // [SITE OWNER PLACEHOLDER]: Update project 02 case-study link before live launch
-    link: "https://github.com/example-username/bandage-ecommerce",
+    link: "https://e-commerce-hackathone-project-template-5.vercel.app/",
   },
   {
     id: "portfolio-experience",
@@ -105,7 +105,7 @@ export const projects: Project[] = [
       "Built CSS hardware-accelerated entrance and page transition keyframe animations.",
     ],
     // [SITE OWNER PLACEHOLDER]: Update project 03 case-study link before live launch
-    link: "https://github.com/example-username/portfolio-experience",
+    link: "https://mohsinportfolio-sable.vercel.app/",
   },
 ];
 
